@@ -22,27 +22,6 @@ This project demonstrates object-oriented design, multi-class architecture, and 
 🗄 In-Memory Database (HashMap) to store users and accounts
 
 
-
-📂 Project Structure
-------------------------
-ATM-Simulation/
-│
-├── Main.java                # Entry point
-├── model/                   # Data Models
-│   ├── Account.java
-│   └── User.java
-│
-├── service/                 # Business Logic
-│   ├── AuthService.java
-│   ├── ATMService.java
-│   └── TransactionService.java
-│
-└── util/                    # Utilities
-    └── Database.java
-
-
-
-
 🚀 Getting Started
 ----------------------
 1. Clone the Repository
