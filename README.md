@@ -25,7 +25,7 @@ This project demonstrates object-oriented design, multi-class architecture, and 
 🚀 Getting Started
 ----------------------
 1. Clone the Repository
-git clone https://github.com/<your-username>/ATM-Simulation.git
+git clone https://github.com/Raviyadav8092/ATM_Simulation.git
 cd ATM-Simulation
 
 2. Open in IntelliJ IDEA
